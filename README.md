@@ -1,7 +1,7 @@
 # EXPERIMENT 1: UNDERSTANDING REACT FILE STRUCTURE
 
-**Name:** HANIEL REENA D R  
-**Register Number:** 2305001008  
+**Name:** JENISHA TEENA ROSE F  
+**Register Number:** 2305001010  
 **Department:** CSE
 
 ## 1. AIM
